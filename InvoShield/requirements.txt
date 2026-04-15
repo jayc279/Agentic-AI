@@ -1,0 +1,13 @@
+streamlit==1.32.0
+pandas==2.2.1
+transformers==4.38.2
+torch==2.2.1
+pytesseract==0.3.10
+pillow==10.2.0
+langchain==0.1.12
+langchain-openai==0.0.8
+langgraph==0.0.26
+fpdf2==2.7.8
+jbxapi==3.11.0
+sqlite3
+langchain-anthropic
